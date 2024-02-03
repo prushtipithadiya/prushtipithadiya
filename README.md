@@ -1,6 +1,8 @@
+
+
 <h1 align="left"><b> Prushti Pithadiya - Front-End Developer </b></h1>
 <h3 align="left">Hi 👋, I'm Prushti Pithadiya, a passionate Front-End developer from India.</h3>
-
+<img align="right" alt="coding" width="400' src="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l">
 ## About Me
 
 I'm a Front End Developer with a strong passion for creating beautiful and user-friendly web applications. I thrive on challenges, and I'm a quick learner with a creative problem-solving mindset. I love experimenting with new technologies to enhance the user experience.
